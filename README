@@ -1,0 +1,42 @@
+# C++ Platform Game
+ 
+A simple platform game written from the ground up using opengl and C++. Made for a second year university project for  
+which I received 78%.
+  
+## Setup
+In order to run successfully compile this on your machine (if you really want to) you may have to follow some steps.  
+These instructions are written for Visual Studio, I'm not sure about other IDEs.  
+  
+**First off, ensure that you are using the x86 platform in the dropdown next to the execute button**, but if that doesn't  
+work then you will have to tell Visual Studio what the dependencies are as follows.
+
+1. Right click on the solution and choose 'retarget solution' it will do what it needs to, don't worry if nothing happens.  
+2. Right click on the project (glfw) and click properties.  
+3. Navigate to C/C++ >> General in the left pane
+4. Edit 'Additional Include Directories'
+5. Add *all* of the following directories to the list (they are all included in this source code)
+	* \Include\GLFW
+	* \Include\FTGL
+	* \Include\FTGL\src
+	* \Include\FreeType
+	* \Include\FreeType\freetype2
+	* \Include\stb
+6. Navigate to Linker >> General in the left pane
+7. Edit 'Additional Library Directories'
+8. Add *all* of the following directories to the list (they are all inclued in this source code)
+	* \lib\GLFW
+	* \lib\FTGL
+	* \lib\FreeType
+	* \lib\stb
+9. Navigate to Linker >> Input in the left pane
+10. Edit 'Additional Dependencies'
+11. Add *all* of the following file names to the list
+	* opengl32.lib
+	* glfw3.lib
+	* glfw3dll.lib
+	* ftgl.lib
+	* ftgl_static.lib
+  	
+## And you should be away. Was it worth the effort? It only has two levels.  
+# Have fun.
+	
