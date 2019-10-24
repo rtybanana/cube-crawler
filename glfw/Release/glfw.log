@@ -1,0 +1,137 @@
+﻿  Enemy.cpp
+d:\work\year 2\glfw\glfw\Enemy.h(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Enemy.h(44): warning C4101: 'b2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Enemy.h(44): warning C4101: 'a2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Enemy.h(72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Enemy.h(73): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Player.h(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'b2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'a2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(112): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Secret.cpp
+d:\work\year 2\glfw\glfw\Objective.h(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Objective.h(35): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Objective.h(37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Secret.h(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Secret.h(20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Player.h(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'b2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'a2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(112): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  GameObject.cpp
+d:\work\year 2\glfw\glfw\Player.h(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'b2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'a2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(112): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Level.cpp
+d:\work\year 2\glfw\glfw\Objective.h(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Objective.h(35): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Objective.h(37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Enemy.h(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Enemy.h(44): warning C4101: 'b2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Enemy.h(44): warning C4101: 'a2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Enemy.h(72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Enemy.h(73): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Secret.h(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Secret.h(20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Player.h(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'b2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'a2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(112): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(39): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(40): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(56): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(59): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(60): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(61): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Level.cpp(196): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Level.cpp(207): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Level.cpp(438): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  main.cpp
+d:\work\year 2\glfw\glfw\Objective.h(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Objective.h(35): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Objective.h(37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Enemy.h(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Enemy.h(44): warning C4101: 'b2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Enemy.h(44): warning C4101: 'a2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Enemy.h(72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Enemy.h(73): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Secret.h(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Secret.h(20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Player.h(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'b2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'a2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(112): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(99): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(123): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(129): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(130): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(221): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(221): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(229): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(232): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(245): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MovingPlatform.cpp
+d:\work\year 2\glfw\glfw\Player.h(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'b2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'a2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(112): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Objective.cpp
+d:\work\year 2\glfw\glfw\Objective.h(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Objective.h(35): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Objective.h(37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Player.h(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'b2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'a2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(112): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Player.cpp
+d:\work\year 2\glfw\glfw\Player.h(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'b2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'a2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(112): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Objective.h(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Objective.h(35): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Objective.h(37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Enemy.h(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Enemy.h(44): warning C4101: 'b2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Enemy.h(44): warning C4101: 'a2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Enemy.h(72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Enemy.h(73): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\year 2\glfw\glfw\Secret.h(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Secret.h(20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Spikes.cpp
+d:\work\year 2\glfw\glfw\Spikes.h(27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(39): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(40): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(56): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(59): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(60): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Spikes.h(61): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\work\year 2\glfw\glfw\Player.h(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'b2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(67): warning C4101: 'a2': unreferenced local variable
+d:\work\year 2\glfw\glfw\Player.h(112): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  All 701 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  glfw.vcxproj -> D:\Work\Year 2\glfw\Release\glfw.exe

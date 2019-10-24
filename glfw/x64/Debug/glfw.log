@@ -1,0 +1,32 @@
+﻿  GameObject.cpp
+c:\users\roryp\desktop\rory pinkney - 100207541\glfw\player.h(67): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\roryp\desktop\rory pinkney - 100207541\glfw\player.h(66): warning C4101: 'b2': unreferenced local variable
+c:\users\roryp\desktop\rory pinkney - 100207541\glfw\player.h(66): warning C4101: 'a2': unreferenced local variable
+c:\users\roryp\desktop\rory pinkney - 100207541\glfw\player.h(111): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Level.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl FTPoint::FTPoint(void)" (__imp_??0FTPoint@@QEAA@XZ) referenced in function "public: void __cdecl Level::drawHUD(class Player,float,float)const " (?drawHUD@Level@@QEBAXVPlayer@@MM@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl FTPoint::FTPoint(void)" (__imp_??0FTPoint@@QEAA@XZ)
+Level.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual bool __cdecl FTFont::FaceSize(unsigned int,unsigned int)" (__imp_?FaceSize@FTFont@@UEAA_NII@Z) referenced in function "public: void __cdecl Level::drawHUD(class Player,float,float)const " (?drawHUD@Level@@QEBAXVPlayer@@MM@Z)
+Level.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual class FTPoint __cdecl FTFont::Render(char const *,int,class FTPoint,class FTPoint,int)" (__imp_?Render@FTFont@@UEAA?AVFTPoint@@PEBDHV2@1H@Z) referenced in function "public: void __cdecl Level::drawHUD(class Player,float,float)const " (?drawHUD@Level@@QEBAXVPlayer@@MM@Z)
+Level.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl FTPixmapFont::FTPixmapFont(char const *)" (__imp_??0FTPixmapFont@@QEAA@PEBD@Z) referenced in function "void __cdecl `dynamic initializer for 'private: static class FTPixmapFont Level::font''(void)" (??__E?font@Level@@0VFTPixmapFont@@A@@YAXXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl FTPixmapFont::FTPixmapFont(char const *)" (__imp_??0FTPixmapFont@@QEAA@PEBD@Z)
+Level.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl FTPixmapFont::~FTPixmapFont(void)" (__imp_??1FTPixmapFont@@UEAA@XZ) referenced in function "void __cdecl `dynamic atexit destructor for 'private: static class FTPixmapFont Level::font''(void)" (??__F?font@Level@@0VFTPixmapFont@@A@@YAXXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl FTPixmapFont::~FTPixmapFont(void)" (__imp_??1FTPixmapFont@@UEAA@XZ)
+main.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetWindowShouldClose referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetWindowIcon referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwGetFramebufferSize referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetWindowSizeCallback referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwGetCursorPos referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetKeyCallback referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetMouseButtonCallback referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwGetTime referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+C:\Users\roryp\Desktop\Rory Pinkney - 100207541\glfw\lib\GLFW\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\roryp\Desktop\Rory Pinkney - 100207541\glfw\lib\GLFW\glfw3dll.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\roryp\Desktop\Rory Pinkney - 100207541\glfw\lib\FTGL\ftgl.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\roryp\Desktop\Rory Pinkney - 100207541\x64\Debug\glfw.exe : fatal error LNK1120: 20 unresolved externals

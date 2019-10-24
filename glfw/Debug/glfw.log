@@ -1,0 +1,6 @@
+﻿  GameObject.cpp
+c:\users\roryp\desktop\rory pinkney - 100207541\glfw\player.h(67): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\roryp\desktop\rory pinkney - 100207541\glfw\player.h(66): warning C4101: 'b2': unreferenced local variable
+c:\users\roryp\desktop\rory pinkney - 100207541\glfw\player.h(66): warning C4101: 'a2': unreferenced local variable
+c:\users\roryp\desktop\rory pinkney - 100207541\glfw\player.h(111): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glfw.vcxproj -> C:\Users\roryp\Desktop\Rory Pinkney - 100207541\Debug\glfw.exe
